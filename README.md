@@ -33,3 +33,31 @@ Challenges:
 3-Scalability: Although the system currently supports a small number of users, scalability would need to be considered for real-world applications, such as supporting larger databases and more complex user scenarios.
 
 This ATM system project demonstrates fundamental concepts in C++ programming, such as handling user input, using structures for data storage, managing conditional logic, and working with loops for menu navigation. Additionally, the use of language translation functions adds an internationalization aspect, making the system adaptable for diverse populations.
+
+
+
+Installation Instructions:
+1-Clone this repository
+2-Navigate to the project directory
+3-Compile the code
+
+
+Usage Guidelines:
+To run the ATM system, execute
+Follow the on-screen instructions to:
+- Login with your username and PIN.
+- Perform banking operations such as deposits, withdrawals, and PIN changes.
+
+
+Technical Stack:
+- Language: C++
+- Database: SQL Server Management Studio
+- Tools: Github
+
+
+Screenshots:
+
+
+
+
+Team Members:
