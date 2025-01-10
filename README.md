@@ -38,9 +38,9 @@ This ATM system project demonstrates fundamental concepts in C++ programming, su
 
 Installation Instructions:
 
--Clone this repository
--Navigate to the project directory
--Compile the code
+- Clone this repository
+- Navigate to the project directory
+- Compile the code
 
 
 
