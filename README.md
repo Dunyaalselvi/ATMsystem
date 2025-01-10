@@ -58,8 +58,9 @@ Technical Stack:
 
 
 Screenshots:
-screenshots/1.JPG
-screenshots/2.JPG
+![Screenshot of the app](screenshot.png)
+![Screenshot of the app](screenshot.png)
+
 
 
 Team Members:
