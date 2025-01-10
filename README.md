@@ -54,7 +54,7 @@ Follow the on-screen instructions to:
 Technical Stack:
 - Language: C++
 - Database: SQL Server Management Studio
-- Tools: Github
+- Tools: Github
 
 
 Screenshots:
