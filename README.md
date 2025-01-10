@@ -1,5 +1,5 @@
 # ATMsystem
-This project is a simulation of an Automated Teller Machine (ATM) system, implemented in C++. It allows users to perform basic banking operations such as changing their PIN, withdrawing cash, and depositing money. The system is designed to handle multiple users, each with a unique user ID, PIN, and account balances in two separate accounts. The ATM offers a language selection feature, supporting English and Turkish, ensuring accessibility for a wider audience.
+This project is a simulation of an Automated Teller Machine (ATM) system command-line-based , implemented in C++. It allows users to perform basic banking operations such as changing their PIN, withdrawing cash, and depositing money. The system is designed to handle multiple users, each with a unique user ID, PIN, and account balances in two separate accounts. The ATM offers a language selection feature, supporting English and Turkish, ensuring accessibility for a wider audience.
 
 Key Features:
 
