@@ -58,8 +58,8 @@ Technical Stack:
 
 
 Screenshots:
-
-
+screenshots/1.JPG
+screenshots/2.JPG
 
 
 Team Members:
