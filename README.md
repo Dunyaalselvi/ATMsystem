@@ -58,8 +58,8 @@ Technical Stack:
 
 
 Screenshots:
-![Screenshot of the app](screenshot.png)
-![Screenshot of the app](screenshot.png)
+![Screenshot of the app](https://github.com/Dunyaalselvi/ATMsystem/blob/main/ATM-system%20English.png)
+![Screenshot of the app](https://github.com/Dunyaalselvi/ATMsystem/blob/main/ATM-system%20Turkish.png)
 
 
 
