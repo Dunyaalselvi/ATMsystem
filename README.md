@@ -64,8 +64,8 @@ Screenshots:
 
 
 Team Members:
-- Fedaa yasinoglu B2405.090270
-- Sarah Al-ahmad  B2405.090261
-- Nur Şevin Teker B2305.090086
-- Ayca Gunduz
-- Dunya Alselvi   B2405.090024
+- Fedaa yasinoglu  B2405.090270
+- Sarah Al-ahmad   B2405.090261
+- Nur Şevin Teker  B2305.090086
+- Ayça Gündüz      B2405.090119
+- Dunya Alselvi    B2405.090024
